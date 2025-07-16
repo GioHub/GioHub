@@ -24,7 +24,7 @@ When I'm not at the computer, you can find me taking a walk or just watching a m
 
 Currently, my featured projects are right here in this account – but stay tuned! New and exciting projects are coming soon.
 
-# 🌐 GitHub Knowledge Hub
+## 🌐 Personal Knowledge Hub (GioHub/GeoHub)
 
 Welcome to my personal GitHub knowledge hub — a curated and organized collection of tools, resources, code snippets, templates, and learning materials across five core areas of modern tech and software development.
 
@@ -55,27 +55,6 @@ Front-end tools, frameworks, reusable UI components, integrations, and full-stac
 
 Feel free to fork, clone, or suggest improvements via pull requests.  
 If you find these resources helpful, give this repo a ⭐️ and share it!
-
-<h1 align="center">🌐 GitHub Knowledge Hub</h1>
-
-<p align="center">
-  <b>A curated collection of tools, code, templates & resources</b><br/>
-  <i>Project Management • Agile • Big Data • Mobile • Front-End</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-English-blueviolet?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/project.png" title="Project Management" />
-  <img src="https://img.icons8.com/color/48/agile.png" title="Agile" />
-  <img src="https://img.icons8.com/color/48/big-data.png" title="Big Data" />
-  <img src="https://img.icons8.com/color/48/mobile-development.png" title="Mobile" />
-  <img src="https://img.icons8.com/color/48/react-native.png" title="Front-End" />
-</p>
 
 
 ---
