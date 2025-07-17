@@ -16,10 +16,10 @@
 
 ## 📘 Templates
 
-- [Project Charter Template – Smartsheet](https://www.smartsheet.com/project-charter-template)
-- [Gantt Chart Template – Google Sheets](https://docs.google.com/spreadsheets/d/1ImzX_sFYD3zkKxmh6gDnXEMR_EwUbgkvdBpq0WxIgfM/edit)
-- [RACI Matrix Template – ClickUp](https://clickup.com/templates/raci-matrix)
-- [Risk Management Plan Template – Atlassian](https://www.atlassian.com/project-management/templates/risk-management)
+- [Project Charter Template – Smartsheet](https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need)
+- [Gantt Chart Template – Google Sheets](https://www.forbes.com/advisor/business/google-sheets-gantt-template/)
+- [RACI Matrix Template – ClickUp](https://clickup.com/blog/raci-matrix-examples/)
+- [Risk Management Plan Template – Atlassian](https://www.atlassian.com/software/confluence/templates/risk-assessment)
 - [Stakeholder Map Template – Miro](https://miro.com/templates/stakeholder-map/)
 
 ---
@@ -48,10 +48,11 @@
 ## 🎓 Courses & Videos
 
 - [Google Project Management Certificate – Coursera](https://www.coursera.org/professional-certificates/google-project-management)
-- [PMI Project Management Basics – Udemy](https://www.udemy.com/course/project-management-fundamentals/)
-- [Project Planning and Execution – LinkedIn Learning](https://www.linkedin.com/learning/topics/project-planning)
+- [The Project Management Course – Udemy](https://www.udemy.com/course/the-project-management-course-beginner-to-project-manager/)
+- [Project Manager – LinkedIn Learning](https://www.linkedin.com/learning/roles/project-manager)
 - [Atlassian Agile Coach Videos](https://www.atlassian.com/agile/tutorials)
-- [Crash Course in Project Management – YouTube (Praxie)](https://www.youtube.com/watch?v=1o9RGnujlkI)
+- [Learn The Fundamentals of PMI´s Framework – YouTube (Deniz)](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+- [PMP Full Course 2025 – YouTube (Simplilearn)](https://www.youtube.com/watch?v=YP_ZcGdlbH0)
 
 ---
 
