@@ -58,10 +58,11 @@
 
 ## ⚙️ Useful Scripts
 
-- [Automated Gantt Chart Generator in Google Sheets (via Apps Script)](https://www.youtube.com/watch?v=9e16cU4ybjI)
-- [Trello API Automation – GitHub Script Example](https://github.com/ljharb/trello-scripts)
-- [Generate Project Timeline PDF from YAML – Python Tool](https://github.com/yueyericardo/project-timeline-generator)
-- [Slack + Notion Daily Standup Bot (Python)](https://github.com/dwarvesf/standup-slackbot)
+- [Gantt Chart Generator in Google Sheets](https://workspace.google.com/marketplace/app/gantt_chart_generator/597114635116)
+- [User Scripts for Trello](https://greasyfork.org/en/scripts/by-site/trello.com)
+- [Trello API Automation](https://brianmorrison.me/blog/automation-with-the-trello-api)
+- [Project Timeline Templates](https://plaky.com/learn/work-tools-and-templates/project-timeline-templates/)
+- [Agile Events with Jira (Miro)](https://miro.com/templates/agile-team-events-with-jira/)
 
 ---
 
@@ -69,7 +70,7 @@
 
 - [ProjectManagement.com](https://www.projectmanagement.com/)
 - [PMI (Project Management Institute)](https://www.pmi.org/)
-- [Lucidchart Templates](https://www.lucidchart.com/pages/examples/project-management)
+- [Best Project Mangement Charts for Planning](https://www.projectmanager.com/blog/3-best-project-management-charts)
 - [ProjectManager.com](https://www.projectmanager.com/)
 - [WorkLife by Atlassian – Blog](https://www.atlassian.com/blog)
 
