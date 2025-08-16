@@ -54,13 +54,13 @@ A curated collection of frameworks, tools, templates, and learning resources for
 
 
 
-\- \[Scrum Master Checklist – Scrum.org](https://www.scrum.org/resources/scrum-master-checklist)
+\- \[Scrum Master Checklist ](https://scrummasterchecklist.org/)
 
 \- \[Agile Retrospective Examples – FunRetro](https://funretro.io/)
 
-\- \[Daily Standup Templates – Atlassian](https://www.atlassian.com/agile/standups)
+\- \[Daily Standup Templates – Atlassian](https://www.atlassian.com/software/confluence/templates/daily-stand-up)
 
-\- \[Agile Metrics Dashboard – GitHub Example](https://github.com/trekhleb/javascript-algorithms)
+\- \[Agile Metrics Dashboard – GitHub Example](https://github.com/rgies/agile-dashboard)
 
 
 
@@ -76,9 +76,9 @@ A curated collection of frameworks, tools, templates, and learning resources for
 
 \- \[Sprint Planning Template – ClickUp](https://clickup.com/templates/sprint-planning)
 
-\- \[Definition of Done Checklist – Lucidchart](https://lucidchart.com/definition-of-done-example)
+\- \[Definition of Done Checklist](https://medium.com/@narenscratchpad/agile-definition-of-done-checklist-for-user-story-sprint-and-release-52b7ad8d49de)
 
-\- \[Release Plan Template – Smartsheet](https://www.smartsheet.com/agile-release-plan-template)
+\- \[Release Plan Template – Smartsheet](https://www.smartsheet.com/content/release-plan-templates)
 
 
 
@@ -112,11 +112,11 @@ A curated collection of frameworks, tools, templates, and learning resources for
 
 \- \[Spotify Engineering Culture – Scaling Agile](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 
-\- \[ING Bank – Agile Transformation](https://www.ing.com/Agile-transformation.htm)
+\- \[ING Bank – Agile Transformation](https://www.agilebusiness.org/static/a4ce59cd-94da-4d1a-9c56794fa281f005/3a12c4c4-598f-402d-b1ad791691a2db03/case-study-ing-banks-digital-platform-tribe-goes-agile.pdf)
 
-\- \[LEGO – Implementing SAFe](https://www.scaledagileframework.com/case-studies/lego/)
+\- \[LEGO – Implementing SAFe](https://www.simplilearn.com/how-companies-like-lego-scale-project-management-with-agile-and-scrum-article)
 
-\- \[Spotify \& Spotify Squads Blog – Lessons Learned](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+\- \[Spotify \& Spotify Squads Blog – Lessons Learned](https://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify)
 
 
 
