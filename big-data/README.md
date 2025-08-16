@@ -76,13 +76,13 @@ A curated collection of tools, libraries, datasets, and learning resources for B
 
 \- \[Big Data Specialization – Coursera](https://www.coursera.org/specializations/big-data)
 
-\- \[Apache Spark \& Scala – Udemy](https://www.udemy.com/course/apache-spark/)
+\- \[Apache Spark \& Scala – Udemy](https://www.udemy.com/course/apache-spark-programming-in-scala/)
 
-\- \[Data Engineering with Google Cloud – Qwiklabs](https://www.qwiklabs.com/quests/34)
+\- \[Data Engineering with Google Cloud](https://www.cloudskillsboost.google/paths/16)
 
-\- \[Introduction to Hadoop – edX](https://www.edx.org/course/introduction-to-hadoop)
+\- \[Introduction to Hadoop – edX](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-spark-hadoop-and-snowflake-for-data-engineering?index=product\&queryId=718ea0cd31f9d07163f9590fb3ed706a\&position=1)
 
-\- \[Databricks Academy – Free Training](https://academy.databricks.com/)
+\- \[Databricks Academy – Free Training](https://customer-academy.databricks.com/learn)
 
 
 
@@ -114,15 +114,15 @@ A curated collection of tools, libraries, datasets, and learning resources for B
 
 
 
-\- \[Uber – Big Data Analytics for Rides \& Pricing](https://eng.uber.com/)
+\- \[Uber – Big Data Analytics for Rides \& Pricing](https://data-pilot.com/blog/scaling-with-data-ubers-story/?utm\_id=SE1)
 
-\- \[Netflix – Data-Driven Personalization](https://netflixtechblog.com/)
+\- \[Netflix – Data-Driven Personalization](https://www.promptcloud.com/blog/netflix-big-data-for-personalized-viewing-experience/)
 
-\- \[Spotify – Real-Time Data Processing](https://engineering.atspotify.com/)
+\- \[Spotify – Real-Time Data Processing](https://7wdata.be/analytics/how-spotify-uses-data-analytics/)
 
-\- \[Airbnb – Data-Driven Decision Making](https://medium.com/airbnb-engineering)
+\- \[Airbnb – Data-Driven Decision Making](https://neilpatel.com/blog/how-airbnb-uses-data-science/)
 
-\- \[LinkedIn – Stream Processing with Kafka](https://engineering.linkedin.com/)
+\- \[LinkedIn – Stream Processing with Kafka](https://softwareengineeringdaily.com/2020/02/20/linkedin-kafka/)
 
 
 
